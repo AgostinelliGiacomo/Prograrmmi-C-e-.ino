@@ -1,0 +1,16 @@
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\bin\Debug\GiornataCamp.exe
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\bin\Debug\GiornataCamp.pdb
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.FormMain.resources
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.Properties.Resources.resources
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.csproj.GenerateResource.Cache
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.exe
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.pdb
+D:\Lab_Informatica\Informatica\AS_2017_2018\4AI\GiornataCamp\obj\x86\Debug\GiornataCamp.FormAgg.resources
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.exe
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.pdb
+G:\GiornataCamp\bin\Debug\GiornataCamp.exe
+G:\GiornataCamp\bin\Debug\GiornataCamp.pdb
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.FormAgg.resources
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.FormMain.resources
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.Properties.Resources.resources
+G:\GiornataCamp\obj\x86\Debug\GiornataCamp.csproj.GenerateResource.Cache

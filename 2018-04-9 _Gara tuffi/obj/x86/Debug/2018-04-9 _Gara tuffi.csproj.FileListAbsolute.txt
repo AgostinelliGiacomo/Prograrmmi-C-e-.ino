@@ -1,0 +1,6 @@
+F:\Informatica\2018-04-9 _Gara tuffi\bin\Debug\2018-04-9 _Gara tuffi.exe
+F:\Informatica\2018-04-9 _Gara tuffi\bin\Debug\2018-04-9 _Gara tuffi.pdb
+F:\Informatica\2018-04-9 _Gara tuffi\obj\x86\Debug\2018-04-9 _Gara tuffi.exe
+F:\Informatica\2018-04-9 _Gara tuffi\obj\x86\Debug\2018-04-9 _Gara tuffi.pdb
+F:\2018-04-9 _Gara tuffi\obj\x86\Debug\2018-04-9 _Gara tuffi.exe
+F:\2018-04-9 _Gara tuffi\obj\x86\Debug\2018-04-9 _Gara tuffi.pdb

@@ -1,0 +1,40 @@
+D:\lavori_tessitore-gambella\interfaccia_grafica\bin\Debug\interfaccia_grafica.exe
+D:\lavori_tessitore-gambella\interfaccia_grafica\bin\Debug\interfaccia_grafica.pdb
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.Form1.resources
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.Properties.Resources.resources
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.csproj.GenerateResource.Cache
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.exe
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.pdb
+D:\lavori_tessitore-gambella\interfaccia_grafica\obj\x86\Debug\interfaccia_grafica.csprojResolveAssemblyReference.cache
+F:\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+F:\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
+F:\interfaccia_grafica3\bin\Debug\interfaccia_grafica.exe
+F:\interfaccia_grafica3\bin\Debug\interfaccia_grafica.pdb
+F:\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.Form1.resources
+F:\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.Properties.Resources.resources
+F:\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.FormMain.resources
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.Properties.Resources.resources
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\bin\Debug\interfaccia_grafica.exe
+C:\Users\utente\Desktop\interfaccia\interfaccia_grafica3\bin\Debug\interfaccia_grafica.pdb
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.FormMain.resources
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.Properties.Resources.resources
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.csproj.GenerateResource.Cache
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\bin\Debug\interfaccia_grafica.exe
+E:\Alternanza 4A 2017-2018\interfaccia_grafica3\bin\Debug\interfaccia_grafica.pdb
+F:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+F:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.FormMain.resources
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.Properties.Resources.resources
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.csproj.GenerateResource.Cache
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\bin\Debug\interfaccia_grafica.exe
+E:\Alternanza scuola-lavoro\interfaccia_grafica3\bin\Debug\interfaccia_grafica.pdb
+G:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.exe
+G:\Alternanza scuola-lavoro\interfaccia_grafica3\obj\x86\Debug\interfaccia_grafica.pdb
